@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Unite Child
+ Description:  Unite Child Theme for Codeline
+ Author:       Mesut GUMUSTAS
+ Author URI:   https://www.noURL.com
+ Template:     unite
+ Version:      1.0.0
+*/
+ 
+@import url("../unite/style.css");
+
+.navbar.navbar-default{
+background-color:red !important;
+}
